@@ -1,0 +1,308 @@
+            * {
+                margin: 0;
+                padding: 0;
+                box-sizing: border-box;
+            }
+            
+            .bang {
+                width: 500px;
+                height: 350px;
+                background-color: green;
+                border: 1px solid;
+                margin: auto;
+                display: flex;
+            }
+            
+            .ladesh {
+                width: 200px;
+                height: 200px;
+                background-color: red;
+                margin: auto;
+                border-radius: 50%;
+            }
+            
+            .ja {
+                width: 500px;
+                height: 350px;
+                background-color: white;
+                border: 1px solid;
+                margin: auto;
+                display: flex;
+            }
+            
+            .pan {
+                width: 200px;
+                height: 200px;
+                background-color: red;
+                margin: auto;
+                border-radius: 50%;
+            }
+            
+            p {
+                font-size: 50px;
+                text-align: center;
+            }
+            
+            .It {
+                width: 500px;
+                height: 350px;
+                background-color: white;
+                border: 1px solid;
+                margin: auto;
+                display: flex;
+                position: relative;
+            }
+            
+            .A {
+                width: 166px;
+                height: 350px;
+                background-color: green;
+                margin: auto;
+                position: absolute;
+                top: 0;
+                left: 0;
+            }
+            
+            .Ly {
+                width: 166px;
+                height: 350px;
+                background-color: red;
+                margin: auto;
+                position: absolute;
+                top: 0;
+                right: 0;
+            }
+            
+            .IR {
+                width: 500px;
+                height: 350px;
+                background-color: white;
+                border: 1px solid;
+                margin: auto;
+                display: flex;
+                position: relative;
+            }
+            
+            .EL {
+                width: 166px;
+                height: 350px;
+                background-color: green;
+                margin: auto;
+                position: absolute;
+                top: 0;
+                left: 0;
+            }
+            
+            .AND {
+                width: 166px;
+                height: 350px;
+                background-color: orange;
+                margin: auto;
+                position: absolute;
+                top: 0;
+                right: 0;
+            }
+            
+            .INDO {
+                width: 500px;
+                height: 300px;
+                border: 1px solid;
+                box-align: center;
+                margin: auto;
+            }
+            
+            .NE {
+                width: 500px;
+                height: 150px;
+                background-color: red;
+                display: flex;
+            }
+            
+            .L {
+                width: 500px;
+                height: 350px;
+                border: 1px solid;
+                box-align: center;
+                background-color: red;
+                margin: auto;
+            }
+            
+            .Ao {
+                width: 498px;
+                height: 150px;
+                background-color: blue;
+                overflow: hidden;
+                position: relative;
+                top: 100px;
+            }
+            
+            .OS {
+                width: 100px;
+                height: 100px;
+                background-color: white;
+                border-radius: 50%;
+                top: 24px;
+                left: 180px;
+                position: relative;
+            }
+            
+            .Lu {
+                width: 500px;
+                height: 300px;
+                border: 1px solid;
+                box-align: center;
+                margin: auto;
+            }
+            
+            .xem {
+                width: 498px;
+                height: 100px;
+                background-color: red;
+                display: flex;
+            }
+            
+            .urg {
+                width: 498px;
+                height: 100px;
+                background-color: cyan;
+                margin-top: 98px;
+                display: flex;
+            }
+            
+            .Li {
+                width: 500px;
+                height: 300px;
+                border: 1px solid;
+                background-color: red;
+                box-align: center;
+                margin: auto;
+            }
+            
+            .Th {
+                width: 498px;
+                height: 100px;
+                background-color: orange;
+                display: flex;
+            }
+            
+            .Nia {
+                width: 498px;
+                height: 100px;
+                background-color: green;
+            }
+            
+            .Vi {
+                width: 500px;
+                height: 300px;
+                border: 1px solid;
+                background-color: red;
+                box-align: center;
+                margin: auto;
+            }
+            
+            .Tn {
+                width: 0px;
+                height: 0px;
+                border-bottom: 170px solid yellow;
+                border-left: 100px solid transparent;
+                border-right: 100px solid transparent;
+                position: relative;
+                margin: auto;
+                margin-top: 35px;
+            }
+            
+            .Nam {
+                width: 0px;
+                height: 0px;
+                border-top: 170px solid yellow;
+                border-left: 100px solid transparent;
+                border-right: 100px solid transparent;
+                position: absolute;
+                top: 60px;
+                left: -100px;
+            }
+            
+            .So {
+                width: 500px;
+                height: 300px;
+                border: 1px solid;
+                background-color: cyan;
+                box-align: center;
+                margin: auto;
+            }
+            
+            .Ma {
+                width: 0px;
+                height: 0px;
+                border-bottom: 170px solid white;
+                border-left: 100px solid transparent;
+                border-right: 100px solid transparent;
+                position: relative;
+                margin: auto;
+                margin-top: 35px;
+            }
+            
+            .Lia {
+                width: 0px;
+                height: 0px;
+                border-top: 170px solid white;
+                border-left: 100px solid transparent;
+                border-right: 100px solid transparent;
+                position: absolute;
+                top: 60px;
+                left: -100px;
+            }
+            
+            .Se {
+                width: 500px;
+                height: 350px;
+                background-color: yellow;
+                border: 1px solid;
+                margin: auto;
+                display: flex;
+                position: relative;
+            }
+            
+            .Ne {
+                width: 166px;
+                height: 350px;
+                background-color: green;
+                margin: auto;
+                position: absolute;
+                top: 0;
+                left: 0;
+            }
+            
+            .Gal {
+                width: 166px;
+                height: 350px;
+                background-color: red;
+                margin: auto;
+                position: absolute;
+                top: 0;
+                right: 0;
+            }
+            
+            .k1a {
+                width: 0px;
+                height: 0px;
+                border-bottom: 130px solid green;
+                border-left: 70px solid transparent;
+                border-right: 70px solid transparent;
+                position: relative;
+                margin: auto;
+                margin-top: 65px;
+            }
+            
+            .KA {
+                width: 0px;
+                height: 0px;
+                border-top: 130px solid green;
+                border-left: 70px solid transparent;
+                border-right: 70px solid transparent;
+                position: absolute;
+                margin-top: 50px;
+                left: -70px;
+            }
+            
+           
