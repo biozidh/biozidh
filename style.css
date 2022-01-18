@@ -3,60 +3,89 @@
     padding: 0;
     box-sizing: border-box;
 }
+.Bitto{
+    width: 1000px;
+    height: 600px;
+    background-color:green;
+    margin: auto;
+    position: relative;
+    display: flex;
+}
+.Obje{
+    width: 250px;
+    height: 250px;
+    background-color: red;
+    margin: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+     border-radius: 50%;
+    overflow: hidden;
+}
+.Object{
+    width: 125px;
+    height: 125px;
+    background-color: blue;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    border-radius: 0px 0px 250px 0px;
 
-
-
-.mainbox{
+}
+.Bittoo{
     width: 500px;
     height: 500px;
+    background-color:green;
     margin: auto;
-    border: 10px dotted blue;
-    border-style: double;
-    margin-top: 15px;
-    border-image: url(border.png) 12 round;
-    background-color: blue;
-    display: flex;
-    align-items: flex-end;
-}
-.btn{
-    font-size: 30px;
-    font-weight: bold;
+    margin-top: 50px;
     border: 5px solid;
-    padding: 10px;
-    margin: 25px;
+    border-radius: 50%;
+    position: relative;
 }
-
-
-.mainbox1{
-    width: 400px;
+.ob{
+    width: 250px;
+    height: 250px;
+    background-color: red;
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    border-radius: 0px 0px 0px 500px;
+}
+.Bit{
+    width: 500px;
     height: 400px;
-    background-color: cyan;
+    border: 5px solid;
     margin: auto;
-    border-radius: 30px;
-  
+    overflow: scroll;
+    text-align: justify;
+    text-decoration: underline;
+    text-decoration-color: currentcolor;
+    text-decoration-color: blue;
+    text-indent: 50px;
+    text-shadow: 7px black;
 }
-.p{
-    font-size: 30px;
-    font-weight: bold;
-}
-input{
-    width: 100%;
-    height: 50px;
+.BH{
+    width: 500px;
+    height: 350px;
+    border: 2px solid;
     margin: auto;
-    border-radius: 20px;
-    padding: 0px 10px;
-    font-size: 18px;
-    font-weight: bold
-    background-color: cyan;
-
+    background-color:lightseagreen;
+    display: flex;
 }
-.submit{
-    width: 150px;
-    height: 50px;
-    background-color: #fff;
-    border-radius: 0px;
+.ki{
+    width: 400px;
+    height: 300px;
+    background-color: yellow;
+    margin: auto;
+    top: 50%;
+    left: 50% ;
+    
 }
-p{
-    font-size: 30px;
-    color: white;
+span{
+    color:red;
+    transition: 5s;
+}
+span:hover{
+    color: springgreen;
 }
